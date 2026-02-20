@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # Privacy Policy — True Count: Blackjack Trainer
 
 **Effective date:** February 19, 2026
