@@ -2,7 +2,6 @@
 title: Delete Account
 ---
 
-
 # Delete Account & Data — True Count: Blackjack Trainer
 
 **Effective date:** February 19, 2026
