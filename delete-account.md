@@ -42,6 +42,12 @@ When we delete your account, we will delete or de-identify:
 * **Data stored locally on your device** (training stats, settings, progress) is not accessible to us remotely.
   To remove local data, uninstall the App or clear the App’s storage in your device settings.
 
+## Support
+
+For help, billing issues, bugs, or questions: truecounttrainer@gmail.com
+
+Optional: “Include device + app version”
+
 ## Timeframe
 
 We aim to complete verified deletion requests within **30 days**.
